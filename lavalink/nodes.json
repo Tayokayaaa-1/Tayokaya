@@ -1,24 +1,17 @@
 [
   {
-    "host": "node.opusmc.net",
+    "host": "lavalink.thewolverine.dev",
     "port": 443,
-    "password": "https://opusmc.net",
+    "password": "https://discord.gg/thewolverine",
     "secure": true,
-    "name": "OpusMC"
+    "name": "TheWolverine"
   },
   {
-    "host": "lavalink-us.brainysmurf.me",
+    "host": "lavalink.slashnode.com",
     "port": 443,
-    "password": "brainypass",
+    "password": "http://slashnode.com",
     "secure": true,
-    "name": "BrainySmurf-US"
-  },
-  {
-    "host": "lavalink.teranet.cc",
-    "port": 443,
-    "password": "https://teranet.cc/discord",
-    "secure": true,
-    "name": "TeraNet"
+    "name": "SlashNode"
   }
 ]
 
