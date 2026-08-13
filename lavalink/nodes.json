@@ -1,17 +1,24 @@
 [
   {
-    "host": "lavalink.thewolverine.dev",
-    "port": 443,
-    "password": "https://discord.gg/thewolverine",
-    "secure": true,
-    "name": "TheWolverine"
+    "host": "lavalink.heavencloud.in",
+    "port": 2333,
+    "password": "heavencloud",
+    "secure": false,
+    "name": "HeavenCloud India"
   },
   {
-    "host": "lavalink.slashnode.com",
-    "port": 443,
-    "password": "http://slashnode.com",
-    "secure": true,
-    "name": "SlashNode"
+    "host": "lavalink-us.heavencloud.xyz",
+    "port": 2333,
+    "password": "heavencloud",
+    "secure": false,
+    "name": "HeavenCloud USA"
+  },
+  {
+    "host": "lavalink-eu.heavencloud.xyz",
+    "port": 2333,
+    "password": "heavencloud",
+    "secure": false,
+    "name": "HeavenCloud EU"
   }
 ]
 
